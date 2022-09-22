@@ -83,7 +83,7 @@ export const oneDarkTheme = EditorView.theme({
   },
 
   ".cm-activeLineGutter": {
-    backgroundColor: highlightBackground
+    backgroundColor: "#4A4E55"
   },
 
   ".cm-foldPlaceholder": {
